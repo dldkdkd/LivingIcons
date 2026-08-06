@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dldkdkd.github.io/LivingIcons/"><strong>Open the LivingIcons website</strong></a>
+  <a href="https://dldkdkd.github.io/LivingIcons/"><strong>Open the LivingIcons site</strong></a>
   ·
   <a href="sileo://source/https://dldkdkd.github.io/LivingIcons/"><strong>Add to Sileo</strong></a>
 </p>
