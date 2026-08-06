@@ -1,28 +1,16 @@
-Package: com.adam.dockpages
-Name: DockPages
-Version: 0.4.0-alpha
+Package: com.adam.livingicons
+Name: LivingIcons
+Version: 0.5.8
 Architecture: iphoneos-arm64e
-Description: Smooth native-model dock pages for iOS 17 on roothide/Relaxin.
+Description: Free animated icon engine with GIF and image support, per-app controls, themes, Theme Studio, previews, compression and correct notification-badge ordering.
 Section: Tweaks
-Author: Adam Never Lack
-Maintainer: Adam Never Lack
-Depends: firmware (>= 17.0), oldabi
-Filename: debs/com.adam.dockpages_0.4.0-alpha_iphoneos-arm64e.deb
-Size: 11412
-SHA256: c5865d0199e3ab87c0e25c68fe234f7431fcdbc3e4ba864ee5342e6d528910d9
-Depiction: https://dldkdkd.github.io/LivingIcons/depictions/dockpages/
-Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
-Tag: role::enduser
-
-Package: 
-Name: 
-Version: 
-Architecture: iphoneos-arm64e
-Description: 
-Filename: debs/com.adam.livingicons_0.5.7_iphoneos-arm64e.deb
-Size: 1500258
-SHA256: 8b3fc974b2191a14bed62c2388922c43dd350835bfa517e9cfdc1b98212c6ea7
-Depiction: https://dldkdkd.github.io/LivingIcons/
+Author: Adam
+Maintainer: Adam
+Depends: firmware (>= 17.0), preferenceloader, oldabi
+Filename: debs/com.adam.livingicons_0.5.8_iphoneos-arm64e.deb
+Size: 1500086
+SHA256: fca57326c68e2d3b81de132a893064a1deccecc8c594c915b863ef38c0e620cf
+Depiction: https://dldkdkd.github.io/LivingIcons/depictions/livingicons/
 Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
 Tag: role::enduser
 
@@ -39,5 +27,21 @@ Filename: debs/com.adam.livingiconsdumper_1.0.0_iphoneos-arm64e.deb
 Size: 9282
 SHA256: 87428025bbd9b0b35badd2179b56747efd50c80b51b9cd418404adfa1bb8be1a
 Depiction: https://dldkdkd.github.io/LivingIcons/depictions/dumper/
+Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
+Tag: role::enduser
+
+Package: com.adam.dockpages
+Name: DockPages
+Version: 0.4.0-alpha
+Architecture: iphoneos-arm64e
+Description: Smooth native-model dock pages for iOS 17 on roothide/Relaxin.
+Section: Tweaks
+Author: Adam Never Lack
+Maintainer: Adam Never Lack
+Depends: firmware (>= 17.0), oldabi
+Filename: debs/com.adam.dockpages_0.4.0-alpha_iphoneos-arm64e.deb
+Size: 11412
+SHA256: c5865d0199e3ab87c0e25c68fe234f7431fcdbc3e4ba864ee5342e6d528910d9
+Depiction: https://dldkdkd.github.io/LivingIcons/depictions/dockpages/
 Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
 Tag: role::enduser
