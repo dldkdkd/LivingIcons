@@ -1,4 +1,4 @@
-# LivingIcons
+# LivingIcons 
 
 <p align="center">
   <img src="animated-settings-app-icon.gif" width="128" alt="LivingIcons icon">
