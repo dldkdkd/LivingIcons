@@ -229,25 +229,3 @@ Settings → LivingIcons
 Donations help support future compatibility updates, new features, and additional animated themes.
 
 ---
-
-## Repository Maintenance
-
-This repository is hosted entirely with GitHub Pages.
-
-Static repo files:
-
-- `Release`
-- `Packages`
-- `Packages.gz`
-- `Packages.bz2`
-- `debs/`
-- `depictions/`
-- `assets/`
-
-After replacing or adding a `.deb`, regenerate package metadata with:
-
-```bash
-python3 update_repo.py
-```
-
-Then commit the updated files to the `main` branch.
