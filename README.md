@@ -1,7 +1,7 @@
 # LivingIcons
 
 <p align="center">
-  <img src="CydiaIcon.png" width="128" alt="LivingIcons icon">
+  <img src="animated-settings-app-icon.gif" width="128" alt="LivingIcons icon">
 </p>
 
 <h3 align="center">Your Home Screen, alive.</h3>
