@@ -12,12 +12,12 @@ GIFs, themes, per-app controls, live previews — built for iOS 17.
 
 <br>
 
-<img src="assets/icons/com.apple.MobileSMS.gif" width="72" alt="Messages">&nbsp;&nbsp;
-<img src="assets/icons/com.apple.Preferences.gif" width="72" alt="Settings">&nbsp;&nbsp;
-<img src="assets/icons/com.apple.Maps.gif" width="72" alt="Maps">&nbsp;&nbsp;
-<img src="assets/icons/com.apple.camera.gif" width="72" alt="Camera">&nbsp;&nbsp;
-<img src="assets/icons/com.apple.weather.gif" width="72" alt="Weather">&nbsp;&nbsp;
-<img src="assets/icons/com.apple.Music.gif" width="72" alt="Music">
+<img src="assets/icons/com.apple.MobileSMS/icon.gif" width="72" alt="Messages">&nbsp;&nbsp;
+<img src="assets/icons/com.apple.Preferences/icon.gif" width="72" alt="Settings">&nbsp;&nbsp;
+<img src="assets/icons/com.apple.Maps/icon.gif" width="72" alt="Maps">&nbsp;&nbsp;
+<img src="assets/icons/com.apple.camera/icon.gif" width="72" alt="Camera">&nbsp;&nbsp;
+<img src="assets/icons/com.apple.weather/icon.gif" width="72" alt="Weather">&nbsp;&nbsp;
+<img src="assets/icons/com.apple.Music/icon.gif" width="72" alt="Music">
 
 </div>
 
