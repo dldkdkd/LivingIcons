@@ -52,9 +52,9 @@ Supports **GIF, APNG, PNG, JPG and JPEG** artwork.
 
 <div align="center">
 
-<img src="assets/screenshots/IMG_4477_1785942728293.png" width="230" alt="LivingIcons Settings">&nbsp;
-<img src="assets/screenshots/IMG_4480_1785944193246.png" width="230" alt="LivingIcons apps">&nbsp;
-<img src="assets/screenshots/IMG_4481_1785945216147.png" width="230" alt="LivingIcons themes">
+<img src="assets/screenshots/IMG_4477_1785942728293.gif" width="230" alt="LivingIcons Settings">&nbsp;
+<img src="assets/screenshots/IMG_4480_1785944193246.gif" width="230" alt="LivingIcons apps">&nbsp;
+<img src="assets/screenshots/IMG_4481_1785945216147.gif" width="230" alt="LivingIcons themes">
 
 </div>
 
