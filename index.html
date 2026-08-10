@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="LivingIcons brings animated app icons, themes, previews, and per-app controls to jailbroken iOS.">
+<title>LivingIcons — Animated Home Screen Icons</title>
+<style>
+:root{color-scheme:dark;--bg:#070912;--card:#111527;--muted:#a6adc8;--accent:#9b6cff;--accent2:#2dd4bf}
+*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at top,#161d3d 0,#070912 42%);color:#fff;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.wrap{max-width:1040px;margin:auto;padding:32px 22px 70px}.nav{display:flex;justify-content:space-between;align-items:center;gap:16px}.brand{font-weight:800;font-size:20px}
+.button{display:inline-block;background:linear-gradient(135deg,var(--accent),#6d4cff);color:#fff;text-decoration:none;padding:13px 18px;border-radius:14px;font-weight:750;border:1px solid rgba(255,255,255,.1)}
+.secondary{background:rgba(255,255,255,.07)}.hero{padding:78px 0 48px;text-align:center}.hero h1{font-size:clamp(43px,8vw,78px);line-height:.98;margin:18px 0}.hero p{max-width:720px;margin:0 auto 28px;color:var(--muted);font-size:19px;line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(235px,1fr));gap:18px}.card{background:rgba(17,21,39,.9);border:1px solid rgba(255,255,255,.09);border-radius:24px;padding:24px;box-shadow:0 18px 50px rgba(0,0,0,.24)}
+.card h2,.card h3{margin-top:0}.muted{color:var(--muted);line-height:1.6}.icons{display:flex;flex-wrap:wrap;justify-content:center;gap:18px;margin:38px auto}.icons img{width:82px;height:82px;border-radius:19px;box-shadow:0 10px 25px rgba(0,0,0,.35)}
+.section{padding-top:46px}.section h2{font-size:34px}.shotgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}.shotgrid img{width:100%;border-radius:25px;border:1px solid rgba(255,255,255,.1)}
+code{background:#090b14;border:1px solid rgba(255,255,255,.08);padding:3px 7px;border-radius:8px;word-break:break-all}.footer{text-align:center;color:var(--muted);padding-top:54px}
+.badge{display:inline-block;padding:7px 11px;border-radius:999px;background:rgba(45,212,191,.13);color:#63ead6;font-weight:700}
+</style>
+</head>
+<body><div class="wrap">
+<nav class="nav"><div class="brand">LivingIcons</div>
+<a class="button secondary" href="sileo://source/https://dldkdkd.github.io/LivingIcons/">Add to Sileo</a></nav>
+<section class="hero">
+<span class="badge">Free for Relaxin RootHide</span>
+<h1>Your Home Screen,<br>alive.</h1>
+<p>Animate your app icons with GIF, APNG, PNG, and JPG artwork. Customize individual apps, switch complete themes, preview animations, and control speed and looping from Settings.</p>
+<a class="button" href="sileo://source/https://dldkdkd.github.io/LivingIcons/">Add Adam's Repo to Sileo</a>
+<a class="button secondary" href="#setup">Setup Guide</a>
+<div class="icons"><img src="assets/icons/com.apple.MobileSMS.gif" alt="Animated app icon"><img src="assets/icons/com.apple.Preferences.gif" alt="Animated app icon"><img src="assets/icons/com.apple.Maps.gif" alt="Animated app icon"><img src="assets/icons/com.apple.camera.gif" alt="Animated app icon"><img src="assets/icons/com.apple.weather.gif" alt="Animated app icon"><img src="assets/icons/com.apple.Music.gif" alt="Animated app icon"><img src="assets/icons/com.apple.mobilesafari.gif" alt="Animated app icon"><img src="assets/icons/com.netflix.Netflix.gif" alt="Animated app icon"></div>
+</section>
+<section class="section">
+<h2>What LivingIcons includes</h2>
+<div class="grid">
+<div class="card"><h3>Animated icons</h3><p class="muted">GIF and APNG playback directly on your Home Screen, plus static PNG and JPG overrides.</p></div>
+<div class="card"><h3>Per-app controls</h3><p class="muted">Choose artwork, change speed and looping, and preview each app inside the native Settings pane.</p></div>
+<div class="card"><h3>Theme Studio</h3><p class="muted">Build, organize, edit, and switch complete animation packs without replacing original app icons.</p></div>
+<div class="card"><h3>Badge-safe rendering</h3><p class="muted">Notification badges remain visible above animated artwork and continue updating normally.</p></div>
+</div>
+</section>
+<section class="section" id="setup">
+<h2>Install and set up</h2>
+<div class="card">
+<p><strong>1.</strong> Add <code>https://dldkdkd.github.io/LivingIcons/</code> to Sileo.</p>
+<p><strong>2.</strong> Install <strong>LivingIcons</strong>. Sileo will also install <strong>Legacy arm64e Support (oldabi)</strong> when required.</p>
+<p><strong>3.</strong> Respring, then open <strong>Settings → LivingIcons</strong>.</p>
+<p><strong>4.</strong> Select <strong>Installed Apps</strong> to assign artwork, or open <strong>Themes</strong> to activate a full pack.</p>
+<p><strong>5.</strong> Custom themes live at <code>/var/jb/var/mobile/Documents/LivingIcons/Themes/</code>.</p>
+</div>
+</section>
+<section class="section"><h2>Screenshots</h2><div class="shotgrid"><img src="assets/screenshots/IMG_4521_1786031420298.png" alt="LivingIcons screenshot"><img src="assets/screenshots/IMG_4477_1785942728293.png" alt="LivingIcons screenshot"><img src="assets/screenshots/IMG_4519_1786030399835.png" alt="LivingIcons screenshot"><img src="assets/screenshots/IMG_4520_1786030739176.png" alt="LivingIcons screenshot"></div></section>
+<section class="section"><h2>Available packages</h2><div class="grid">
+<div class="card"><h3>LivingIcons 0.5.8</h3><p class="muted">Animated Home Screen icons, Theme Studio, previews, compression, and per-app controls.</p></div>
+<div class="card"><h3>LivingIcons Dumper</h3><p class="muted">Exports installed app icons and bundle identifiers to help build custom animation themes.</p></div>
+<div class="card"><h3>DockPages</h3><p class="muted">Adds smooth, swipeable pages to the iPhone dock on supported Relaxin setups.</p></div>
+</div></section>
+<div class="footer">Built by Adam S. · Hosted free with GitHub Pages</div>
+</div>
+<section id="more-packages" style="max-width:1000px;margin:40px auto;padding:0 20px;">
+  <h2>More Packages</h2>
+  <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px;">
+    <div style="padding:18px;border-radius:16px;background:rgba(127,127,127,.12);">
+      <h3>LivingRespring</h3>
+      <p>Turn any GIF into an optimized iOS 17 respring animation from Settings.</p>
+    </div>
+    <div style="padding:18px;border-radius:16px;background:rgba(127,127,127,.12);">
+      <h3>Atria English Patch</h3>
+      <p>English translation patch for the RootHide/Relaxin build of Atria.</p>
+    </div>
+  </div>
+</section>
+
+</body></html>
