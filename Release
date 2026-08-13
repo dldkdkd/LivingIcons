@@ -1,0 +1,22 @@
+Origin: Adam's Repo
+Label: Adam's Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: LivingIcons, DockPages, and jailbreak utilities by Adam.
+Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
+Date: Thu, 13 Aug 2026 23:17:36 GMT
+MD5Sum:
+ 572a2b66ddebee8bc4c64fe0d81239d7             3367 Packages
+ 8ec33cc7e1d54324450c49f611c43048             1160 Packages.gz
+ 611c18d97fb38394d926b42daadb093b             1334 Packages.bz2
+SHA1:
+ 284f3f0ee2113244cf9fe2df76c2004e600a70b1             3367 Packages
+ 0db1818628c773f551640d113f6fa20a3e683538             1160 Packages.gz
+ 4ddee05ea3d418d69b010d8cfeb5a3e9d7ef83fe             1334 Packages.bz2
+SHA256:
+ e2e9bbf0eb084bcfcae41d19f13ce0d6a0a07cbf0b4056f5b9f9f57d710f649f             3367 Packages
+ a5b54e3e636ea737d603c98c1eec4c2d0a66c55f4f126174219378af7626fb8b             1160 Packages.gz
+ ef1b1d96575360367d71b5308c874e9f3dd23ca9af070240058a78d5114b4ca8             1334 Packages.bz2
