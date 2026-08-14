@@ -1,0 +1,24 @@
+{
+  "galleryVersion": 1,
+  "minimumLivingIconsVersion": "0.9.1",
+  "updated": "2026-08-14",
+  "themes": [
+    {
+      "id": "com.adam.livingicons.default",
+      "name": "LivingIcons Default",
+      "author": "Legacy Fingal artists / packaged for LivingIcons by Adam",
+      "version": "1.0",
+      "description": "The official LivingIcons starter animation pack.",
+      "category": "Official",
+      "featured": true,
+      "popular": true,
+      "new": false,
+      "verified": true,
+      "iconCount": 21,
+      "download": "themes/livingicons-default/LivingIconsDefault.theme.zip",
+      "preview": "themes/livingicons-default/preview.jpg",
+      "minimumLivingIconsVersion": "0.9.1",
+      "updated": "2026-08-14"
+    }
+  ]
+}
