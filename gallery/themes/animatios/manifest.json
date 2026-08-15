@@ -1,0 +1,157 @@
+﻿{
+    "formatVersion":  1,
+    "theme":  {
+                  "folder":  "AnimatiOS.theme",
+                  "themeID":  "com.livingicons.port.animatios",
+                  "name":  "AnimatiOS",
+                  "author":  "Tykology",
+                  "version":  "1.0.1",
+                  "description":  "Classic AnimatiOS animated icon theme ported to LivingIcons."
+              },
+    "files":  [
+                  {
+                      "bundleID":  "com.apple.AppStore",
+                      "file":  "files/com.apple.AppStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Bridge",
+                      "file":  "files/com.apple.Bridge.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.calculator",
+                      "file":  "files/com.apple.calculator.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.camera",
+                      "file":  "files/com.apple.camera.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.compass",
+                      "file":  "files/com.apple.compass.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.DocumentsApp",
+                      "file":  "files/com.apple.DocumentsApp.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.facetime",
+                      "file":  "files/com.apple.facetime.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.findmy",
+                      "file":  "files/com.apple.findmy.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Health",
+                      "file":  "files/com.apple.Health.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Home",
+                      "file":  "files/com.apple.Home.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.iBooks",
+                      "file":  "files/com.apple.iBooks.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Maps",
+                      "file":  "files/com.apple.Maps.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.measure",
+                      "file":  "files/com.apple.measure.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileAddressBook",
+                      "file":  "files/com.apple.MobileAddressBook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilemail",
+                      "file":  "files/com.apple.mobilemail.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileme.fmf1",
+                      "file":  "files/com.apple.mobileme.fmf1.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileme.fmip1",
+                      "file":  "files/com.apple.mobileme.fmip1.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilenotes",
+                      "file":  "files/com.apple.mobilenotes.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilephone",
+                      "file":  "files/com.apple.mobilephone.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilesafari",
+                      "file":  "files/com.apple.mobilesafari.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileslideshow",
+                      "file":  "files/com.apple.mobileslideshow.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileSMS",
+                      "file":  "files/com.apple.MobileSMS.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileStore",
+                      "file":  "files/com.apple.MobileStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Music",
+                      "file":  "files/com.apple.Music.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Passbook",
+                      "file":  "files/com.apple.Passbook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.podcasts",
+                      "file":  "files/com.apple.podcasts.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Preferences",
+                      "file":  "files/com.apple.Preferences.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.reminders",
+                      "file":  "files/com.apple.reminders.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.stocks",
+                      "file":  "files/com.apple.stocks.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.tips",
+                      "file":  "files/com.apple.tips.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.tv",
+                      "file":  "files/com.apple.tv.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.VoiceMemos",
+                      "file":  "files/com.apple.VoiceMemos.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.weather",
+                      "file":  "files/com.apple.weather.gif"
+                  },
+                  {
+                      "bundleID":  "com.atebits.Tweetie2",
+                      "file":  "files/com.atebits.Tweetie2.gif"
+                  },
+                  {
+                      "bundleID":  "com.toyopagroup.picaboo",
+                      "file":  "files/com.toyopagroup.picaboo.gif"
+                  },
+                  {
+                      "bundleID":  "ph.telegra.Telegraph",
+                      "file":  "files/ph.telegra.Telegraph.gif"
+                  }
+              ]
+}

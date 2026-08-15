@@ -1,0 +1,165 @@
+﻿{
+    "formatVersion":  1,
+    "theme":  {
+                  "folder":  "Live Animated Icons Stock.theme",
+                  "themeID":  "com.livingicons.port.live-animated-icons-stock",
+                  "name":  "Live Animated Icons Stock",
+                  "author":  "Legacy Fingal artists",
+                  "version":  "1.2-1",
+                  "description":  "A collection of animated stock-style icons originally made for Fingal, converted for LivingIcons."
+              },
+    "files":  [
+                  {
+                      "bundleID":  "com.apple.airport.mobileairportutility",
+                      "file":  "files/com.apple.airport.mobileairportutility.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.AppStore",
+                      "file":  "files/com.apple.AppStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.calculator",
+                      "file":  "files/com.apple.calculator.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.camera",
+                      "file":  "files/com.apple.camera.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.compass",
+                      "file":  "files/com.apple.compass.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.findmy",
+                      "file":  "files/com.apple.findmy.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Fitness",
+                      "file":  "files/com.apple.Fitness.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.gamecenter",
+                      "file":  "files/com.apple.gamecenter.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Health",
+                      "file":  "files/com.apple.Health.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Maps",
+                      "file":  "files/com.apple.Maps.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileAddressBook",
+                      "file":  "files/com.apple.MobileAddressBook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilemail",
+                      "file":  "files/com.apple.mobilemail.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileme.fmip1",
+                      "file":  "files/com.apple.mobileme.fmip1.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilenotes",
+                      "file":  "files/com.apple.mobilenotes.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilephone",
+                      "file":  "files/com.apple.mobilephone.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilesafari",
+                      "file":  "files/com.apple.mobilesafari.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileslideshow",
+                      "file":  "files/com.apple.mobileslideshow.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileSMS",
+                      "file":  "files/com.apple.MobileSMS.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileStore",
+                      "file":  "files/com.apple.MobileStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Music",
+                      "file":  "files/com.apple.Music.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Preferences",
+                      "file":  "files/com.apple.Preferences.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.stocks",
+                      "file":  "files/com.apple.stocks.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.videos",
+                      "file":  "files/com.apple.videos.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.weather",
+                      "file":  "files/com.apple.weather.gif"
+                  },
+                  {
+                      "bundleID":  "com.espn.ScoreCenter",
+                      "file":  "files/com.espn.ScoreCenter.gif"
+                  },
+                  {
+                      "bundleID":  "com.facebook.Facebook",
+                      "file":  "files/com.facebook.Facebook.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.chrome.ios",
+                      "file":  "files/com.google.chrome.ios.gif"
+                  },
+                  {
+                      "bundleID":  "com.imdb.imdb",
+                      "file":  "files/com.imdb.imdb.gif"
+                  },
+                  {
+                      "bundleID":  "com.jugaari.teleport",
+                      "file":  "files/com.jugaari.teleport.gif"
+                  },
+                  {
+                      "bundleID":  "com.junecloud.Deliveries",
+                      "file":  "files/com.junecloud.Deliveries.gif"
+                  },
+                  {
+                      "bundleID":  "com.modmyi.ModMyi",
+                      "file":  "files/com.modmyi.ModMyi.gif"
+                  },
+                  {
+                      "bundleID":  "com.ookla.speedtest",
+                      "file":  "files/com.ookla.speedtest.gif"
+                  },
+                  {
+                      "bundleID":  "com.plexapp.plex",
+                      "file":  "files/com.plexapp.plex.gif"
+                  },
+                  {
+                      "bundleID":  "com.quoord.Tapatalk",
+                      "file":  "files/com.quoord.Tapatalk.gif"
+                  },
+                  {
+                      "bundleID":  "com.tapbots.Tweetbot3",
+                      "file":  "files/com.tapbots.Tweetbot3.gif"
+                  },
+                  {
+                      "bundleID":  "com.tapbots.Tweetbot4",
+                      "file":  "files/com.tapbots.Tweetbot4.gif"
+                  },
+                  {
+                      "bundleID":  "com.xvision.datamannext",
+                      "file":  "files/com.xvision.datamannext.gif"
+                  },
+                  {
+                      "bundleID":  "com.yourcompany.TVShowtracker",
+                      "file":  "files/com.yourcompany.TVShowtracker.gif"
+                  }
+              ]
+}

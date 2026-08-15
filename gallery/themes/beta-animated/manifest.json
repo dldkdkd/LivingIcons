@@ -1,0 +1,409 @@
+﻿{
+    "formatVersion":  1,
+    "theme":  {
+                  "folder":  "BETA Animated.theme",
+                  "themeID":  "com.livingicons.port.beta-animated",
+                  "name":  "BETA Animated",
+                  "author":  "Tykology",
+                  "version":  "1.0.0",
+                  "description":  "BETA Animated icon theme converted for LivingIcons."
+              },
+    "files":  [
+                  {
+                      "bundleID":  "ce4c2adfa91003fefb0a80bcceabcc79f13b4458.0",
+                      "file":  "files/ce4c2adfa91003fefb0a80bcceabcc79f13b4458.0.gif"
+                  },
+                  {
+                      "bundleID":  "com.amazon.Amazon",
+                      "file":  "files/com.amazon.Amazon.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.AppStore",
+                      "file":  "files/com.apple.AppStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Bridge",
+                      "file":  "files/com.apple.Bridge.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.calculator",
+                      "file":  "files/com.apple.calculator.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.camera",
+                      "file":  "files/com.apple.camera.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.DocumentsApp",
+                      "file":  "files/com.apple.DocumentsApp.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.findmy",
+                      "file":  "files/com.apple.findmy.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Fitness",
+                      "file":  "files/com.apple.Fitness.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Health",
+                      "file":  "files/com.apple.Health.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Home",
+                      "file":  "files/com.apple.Home.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.iBooks",
+                      "file":  "files/com.apple.iBooks.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Maps",
+                      "file":  "files/com.apple.Maps.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.measure",
+                      "file":  "files/com.apple.measure.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileAddressBook",
+                      "file":  "files/com.apple.MobileAddressBook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilecal",
+                      "file":  "files/com.apple.mobilecal.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilemail",
+                      "file":  "files/com.apple.mobilemail.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilenotes",
+                      "file":  "files/com.apple.mobilenotes.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilephone",
+                      "file":  "files/com.apple.mobilephone.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilesafari",
+                      "file":  "files/com.apple.mobilesafari.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileslideshow",
+                      "file":  "files/com.apple.mobileslideshow.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileSMS",
+                      "file":  "files/com.apple.MobileSMS.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileStore",
+                      "file":  "files/com.apple.MobileStore.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobiletimer",
+                      "file":  "files/com.apple.mobiletimer.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Music",
+                      "file":  "files/com.apple.Music.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.news",
+                      "file":  "files/com.apple.news.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Passbook",
+                      "file":  "files/com.apple.Passbook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.podcasts",
+                      "file":  "files/com.apple.podcasts.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Preferences",
+                      "file":  "files/com.apple.Preferences.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.reminders",
+                      "file":  "files/com.apple.reminders.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.shortcuts",
+                      "file":  "files/com.apple.shortcuts.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.stocks-large",
+                      "file":  "files/com.apple.stocks-large.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.store.Jolly",
+                      "file":  "files/com.apple.store.Jolly.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.tips",
+                      "file":  "files/com.apple.tips.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.tv",
+                      "file":  "files/com.apple.tv.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.VoiceMemos",
+                      "file":  "files/com.apple.VoiceMemos.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.weather",
+                      "file":  "files/com.apple.weather.gif"
+                  },
+                  {
+                      "bundleID":  "com.atebits.Tweetie2",
+                      "file":  "files/com.atebits.Tweetie2.gif"
+                  },
+                  {
+                      "bundleID":  "com.bancomer.bbva.bancomermovil",
+                      "file":  "files/com.bancomer.bbva.bancomermovil.gif"
+                  },
+                  {
+                      "bundleID":  "com.bbvacompass.mobilebank",
+                      "file":  "files/com.bbvacompass.mobilebank.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.boomerang",
+                      "file":  "files/com.burbn.boomerang.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.hyperlapse",
+                      "file":  "files/com.burbn.hyperlapse.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.igtv",
+                      "file":  "files/com.burbn.igtv.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.instagram",
+                      "file":  "files/com.burbn.instagram.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.layouts",
+                      "file":  "files/com.burbn.layouts.gif"
+                  },
+                  {
+                      "bundleID":  "com.christianselig.Apollo",
+                      "file":  "files/com.christianselig.Apollo.gif"
+                  },
+                  {
+                      "bundleID":  "com.exile90.icleanerpro",
+                      "file":  "files/com.exile90.icleanerpro.gif"
+                  },
+                  {
+                      "bundleID":  "com.facebook.Facebook",
+                      "file":  "files/com.facebook.Facebook.gif"
+                  },
+                  {
+                      "bundleID":  "com.facebook.Messenger",
+                      "file":  "files/com.facebook.Messenger.gif"
+                  },
+                  {
+                      "bundleID":  "com.getdropbox.Dropbox",
+                      "file":  "files/com.getdropbox.Dropbox.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.chrome.ios",
+                      "file":  "files/com.google.chrome.ios.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.Drive",
+                      "file":  "files/com.google.Drive.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.Gmail",
+                      "file":  "files/com.google.Gmail.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.GoogleMobile",
+                      "file":  "files/com.google.GoogleMobile.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.ios.youtube",
+                      "file":  "files/com.google.ios.youtube.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.ios.youtubekids",
+                      "file":  "files/com.google.ios.youtubekids.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.ios.youtubemusic",
+                      "file":  "files/com.google.ios.youtubemusic.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.ios.ytcreator",
+                      "file":  "files/com.google.ios.ytcreator.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.Maps",
+                      "file":  "files/com.google.Maps.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.OPA",
+                      "file":  "files/com.google.OPA.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.photos",
+                      "file":  "files/com.google.photos.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.podcasts",
+                      "file":  "files/com.google.podcasts.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.Tachyon",
+                      "file":  "files/com.google.Tachyon.gif"
+                  },
+                  {
+                      "bundleID":  "com.google.Translate",
+                      "file":  "files/com.google.Translate.gif"
+                  },
+                  {
+                      "bundleID":  "com.hammerandchisel.discord",
+                      "file":  "files/com.hammerandchisel.discord.gif"
+                  },
+                  {
+                      "bundleID":  "com.ideashower.ReadItLaterPro",
+                      "file":  "files/com.ideashower.ReadItLaterPro.gif"
+                  },
+                  {
+                      "bundleID":  "com.microsoft.Office.Excel",
+                      "file":  "files/com.microsoft.Office.Excel.gif"
+                  },
+                  {
+                      "bundleID":  "com.microsoft.Office.Outlook",
+                      "file":  "files/com.microsoft.Office.Outlook.gif"
+                  },
+                  {
+                      "bundleID":  "com.microsoft.Office.Powerpoint",
+                      "file":  "files/com.microsoft.Office.Powerpoint.gif"
+                  },
+                  {
+                      "bundleID":  "com.microsoft.Office.Word",
+                      "file":  "files/com.microsoft.Office.Word.gif"
+                  },
+                  {
+                      "bundleID":  "com.microsoft.skype.teams",
+                      "file":  "files/com.microsoft.skype.teams.gif"
+                  },
+                  {
+                      "bundleID":  "com.netflix.Netflix",
+                      "file":  "files/com.netflix.Netflix.gif"
+                  },
+                  {
+                      "bundleID":  "com.officialscheduler.mterminal",
+                      "file":  "files/com.officialscheduler.mterminal.gif"
+                  },
+                  {
+                      "bundleID":  "com.reddit.alienblue",
+                      "file":  "files/com.reddit.alienblue.gif"
+                  },
+                  {
+                      "bundleID":  "com.reddit.Reddit",
+                      "file":  "files/com.reddit.Reddit.gif"
+                  },
+                  {
+                      "bundleID":  "com.saurik.Cydia",
+                      "file":  "files/com.saurik.Cydia.gif"
+                  },
+                  {
+                      "bundleID":  "com.shazam.encore.Shazam",
+                      "file":  "files/com.shazam.encore.Shazam.gif"
+                  },
+                  {
+                      "bundleID":  "com.shazam.Shazam",
+                      "file":  "files/com.shazam.Shazam.gif"
+                  },
+                  {
+                      "bundleID":  "com.skype.skype",
+                      "file":  "files/com.skype.skype.gif"
+                  },
+                  {
+                      "bundleID":  "com.spotify.client",
+                      "file":  "files/com.spotify.client.gif"
+                  },
+                  {
+                      "bundleID":  "com.tigisoftware.Filza",
+                      "file":  "files/com.tigisoftware.Filza.gif"
+                  },
+                  {
+                      "bundleID":  "com.toyopagroup.picaboo",
+                      "file":  "files/com.toyopagroup.picaboo.gif"
+                  },
+                  {
+                      "bundleID":  "com.valvesoftware.Steam",
+                      "file":  "files/com.valvesoftware.Steam.gif"
+                  },
+                  {
+                      "bundleID":  "com.yourcompany.PPClient",
+                      "file":  "files/com.yourcompany.PPClient.gif"
+                  },
+                  {
+                      "bundleID":  "com.zhiliaoapp.musically",
+                      "file":  "files/com.zhiliaoapp.musically.gif"
+                  },
+                  {
+                      "bundleID":  "jp.naver.line",
+                      "file":  "files/jp.naver.line.gif"
+                  },
+                  {
+                      "bundleID":  "me.apptapp.installer",
+                      "file":  "files/me.apptapp.installer.gif"
+                  },
+                  {
+                      "bundleID":  "mx.com.bancoazteca.bazdigitalmovil",
+                      "file":  "files/mx.com.bancoazteca.bazdigitalmovil.gif"
+                  },
+                  {
+                      "bundleID":  "net.whatsapp.WhatsApp",
+                      "file":  "files/net.whatsapp.WhatsApp.gif"
+                  },
+                  {
+                      "bundleID":  "org.altervista.exilecom.icleaner",
+                      "file":  "files/org.altervista.exilecom.icleaner.gif"
+                  },
+                  {
+                      "bundleID":  "org.coolstar.SileoStore",
+                      "file":  "files/org.coolstar.SileoStore.gif"
+                  },
+                  {
+                      "bundleID":  "ph.telegra.Telegraph",
+                      "file":  "files/ph.telegra.Telegraph.gif"
+                  },
+                  {
+                      "bundleID":  "science.xnu.undecimus",
+                      "file":  "files/science.xnu.undecimus.gif"
+                  },
+                  {
+                      "bundleID":  "science.xnu.undecimus.AP797JA8LJ",
+                      "file":  "files/science.xnu.undecimus.AP797JA8LJ.gif"
+                  },
+                  {
+                      "bundleID":  "science.xnu.undecimus.BBJ78BLCSE",
+                      "file":  "files/science.xnu.undecimus.BBJ78BLCSE.gif"
+                  },
+                  {
+                      "bundleID":  "tv.twitch",
+                      "file":  "files/tv.twitch.gif"
+                  },
+                  {
+                      "bundleID":  "ws.hbang.Terminal",
+                      "file":  "files/ws.hbang.Terminal.gif"
+                  },
+                  {
+                      "bundleID":  "ws.hbang.Terminal1",
+                      "file":  "files/ws.hbang.Terminal1.gif"
+                  },
+                  {
+                      "bundleID":  "xyz.willy.Zebra",
+                      "file":  "files/xyz.willy.Zebra.gif"
+                  }
+              ]
+}

@@ -1,0 +1,97 @@
+﻿{
+    "formatVersion":  1,
+    "theme":  {
+                  "folder":  "LivingIconsDefault.theme",
+                  "themeID":  "com.adam.livingicons.default",
+                  "name":  "LivingIcons Default",
+                  "author":  "Legacy Fingal artists / packaged for LivingIcons by Adam",
+                  "version":  "1.0",
+                  "description":  "The official LivingIcons starter animation pack."
+              },
+    "files":  [
+                  {
+                      "bundleID":  "com.9gag.ios.mobile",
+                      "file":  "files/com.9gag.ios.mobile.gif"
+                  },
+                  {
+                      "bundleID":  "com.amleszk.amrc",
+                      "file":  "files/com.amleszk.amrc.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.camera",
+                      "file":  "files/com.apple.camera.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Health",
+                      "file":  "files/com.apple.Health.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Maps",
+                      "file":  "files/com.apple.Maps.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileAddressBook",
+                      "file":  "files/com.apple.MobileAddressBook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileme.fmip1",
+                      "file":  "files/com.apple.mobileme.fmip1.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilenotes",
+                      "file":  "files/com.apple.mobilenotes.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilephone",
+                      "file":  "files/com.apple.mobilephone.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobilesafari",
+                      "file":  "files/com.apple.mobilesafari.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.mobileslideshow",
+                      "file":  "files/com.apple.mobileslideshow.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.MobileSMS",
+                      "file":  "files/com.apple.MobileSMS.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Music",
+                      "file":  "files/com.apple.Music.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Passbook",
+                      "file":  "files/com.apple.Passbook.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.Preferences",
+                      "file":  "files/com.apple.Preferences.gif"
+                  },
+                  {
+                      "bundleID":  "com.apple.weather",
+                      "file":  "files/com.apple.weather.gif"
+                  },
+                  {
+                      "bundleID":  "com.atebits.Tweetie2",
+                      "file":  "files/com.atebits.Tweetie2.gif"
+                  },
+                  {
+                      "bundleID":  "com.burbn.instagram",
+                      "file":  "files/com.burbn.instagram.gif"
+                  },
+                  {
+                      "bundleID":  "com.netflix.Netflix",
+                      "file":  "files/com.netflix.Netflix.gif"
+                  },
+                  {
+                      "bundleID":  "com.reddit.alienblue",
+                      "file":  "files/com.reddit.alienblue.gif"
+                  },
+                  {
+                      "bundleID":  "com.saurik.Cydia",
+                      "file":  "files/com.saurik.Cydia.gif"
+                  }
+              ]
+}
