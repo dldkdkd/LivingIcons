@@ -32,16 +32,16 @@ Tag: role::enduser
 
 Package: com.adam.livingicons
 Name: LivingIcons
-Version: 1.0.0
+Version: 1.0.1
 Architecture: iphoneos-arm64
-Description: Bring your Home Screen to life with animated app icons. LivingIcons 1.0 includes a built-in Theme Gallery, Theme Creator, Theme Mixer, per-app controls, animated GIF/APNG support, previews, performance controls, and secure one-tap community theme installs.
+Description: Bring your Home Screen to life with animated app icons. LivingIcons 1.0.1 includes Theme Gallery, Theme Creator, Theme Mixer, per-app controls, GIF/APNG support, previews, performance controls, and secure one-tap community theme installs.
 Section: Tweaks
 Author: Adam Never Lack
 Maintainer: Adam Never Lack
 Depends: firmware (>= 17.0), preferenceloader, oldabi
-Filename: debs/com.adam.livingicons_1.0.0_iphoneos-arm64.deb
-Size: 1772436
-SHA256: a80779dcdd2df9a7c04d8f57b49af0e0b5c917d4f530aef2b0a77e4452ee6de7
+Filename: debs/com.adam.livingicons_1.0.1_iphoneos-arm64.deb
+Size: 1772366
+SHA256: 119f61198b29a65c3bc6626d85fd2de859c4d5429adf38f051cc4008a723c7c6
 Depiction: https://dldkdkd.github.io/LivingIcons/depictions/livingicons/
 Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
 Tag: role::enduser
