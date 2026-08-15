@@ -7,16 +7,16 @@ Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: LivingIcons, DockPages, and jailbreak utilities by Adam.
 Icon: https://dldkdkd.github.io/LivingIcons/CydiaIcon.png
-Date: Sat, 15 Aug 2026 05:41:48 GMT
+Date: Sat, 15 Aug 2026 06:09:44 GMT
 MD5Sum:
- 2e111b0e69559996b976de7da9d6a5f5             3474 Packages
- 9fb0b7e1430a93f4d02052015639a00d             1193 Packages.gz
- 8cb9d262e2a8202067f8b857ffffddce             1373 Packages.bz2
+ e6e97f137c15c832c2aacb1ec0942edd             3467 Packages
+ 1084aa1901f1c9c53e641843884fba1d             1197 Packages.gz
+ 10d835e9b1f9651645f926766856ea6e             1369 Packages.bz2
 SHA1:
- c8d08a056b038bbc014f0ed002c80d4fe48ea642             3474 Packages
- 2858fa2e98f23e0b7920a46e08f66da9910c9a57             1193 Packages.gz
- cb668c99d73694fb351a772c56c22ae30918e182             1373 Packages.bz2
+ 34345220e0b8c0641ede4ac83c1b016cecbbdf12             3467 Packages
+ 175ceab21f2b9ebcbff3198d66a1ba4409b28946             1197 Packages.gz
+ bd3652e70a7e07ef78d5df70840587208b82c5cf             1369 Packages.bz2
 SHA256:
- c97719f3abde296a6f6644d0a13a5930185416595ad9a9a505ab199e02809ec4             3474 Packages
- 95f6bc355f4e7b1bd2aaabb60abb379239c303f9650d381c7652e43751e47960             1193 Packages.gz
- 52b1095836fc235a93c06ac508c65f98a089d9dab7032af0a668d7b3d25c67df             1373 Packages.bz2
+ be74abb8895d8459a4eef48df59c9c35fb128f6ce78c2ef459858b89781ca212             3467 Packages
+ 18b48617f0d23a2074d8a31ad20de699419aed543d5c22ca3fe72cb89d593bad             1197 Packages.gz
+ eb2ca796aa078e07e88b123488a5d91413ec63e01b96d83f9ac30f1e8793ae75             1369 Packages.bz2

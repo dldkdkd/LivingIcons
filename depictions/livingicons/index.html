@@ -2,11 +2,73 @@
 <html>
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
 <title>LivingIcons</title>
+<style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Segoe UI",sans-serif}
+*{box-sizing:border-box}
+body{margin:0;background:#000;color:#fff;padding:22px 18px 40px}
+.wrap{max-width:760px;margin:0 auto}
+.hero{padding:30px 22px;border-radius:26px;background:linear-gradient(145deg,#151515,#050505);border:1px solid #252525;text-align:center}
+.logo{width:82px;height:82px;border-radius:22px;margin:0 auto 16px;display:block}
+h1{font-size:34px;line-height:1.05;margin:0 0 7px}
+.tag{font-size:17px;color:#aaa;margin:0}
+.badges{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:18px}
+.badge{padding:7px 11px;border-radius:999px;background:#1c1c1e;font-size:13px;font-weight:650}
+.card{background:#111113;border:1px solid #242426;border-radius:22px;padding:20px;margin-top:16px}
+h2{font-size:20px;margin:0 0 12px}
+p{font-size:16px;line-height:1.45;color:#c7c7cc;margin:8px 0}
+.features{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.feature{background:#1a1a1d;border-radius:16px;padding:14px}
+.feature b{display:block;font-size:15px;margin-bottom:4px}
+.feature span{font-size:13px;line-height:1.35;color:#aaa}
+.version{font-size:14px;color:#8e8e93}
+@media(max-width:520px){.features{grid-template-columns:1fr}}
+</style>
 </head>
-<body style="font-family:-apple-system,BlinkMacSystemFont,sans-serif;padding:24px">
-<h1>LivingIcons</h1>
-<p>Package from Adam's Repo.</p>
+<body>
+<div class="wrap">
+  <section class="hero">
+    <img class="logo" src="../../CydiaIcon.png" alt="LivingIcons">
+    <h1>LivingIcons</h1>
+    <p class="tag">Your Home Screen, alive.</p>
+    <div class="badges">
+      <span class="badge">Version 1.0.0</span>
+      <span class="badge">iOS 17+</span>
+      <span class="badge">Rootless + RootHide</span>
+      <span class="badge">Free</span>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>Animate your app icons</h2>
+    <p>Turn static Home Screen icons into smooth GIF and APNG animations, with per-app controls, themes, previews, performance tuning, and a complete theme workflow built directly into Settings.</p>
+  </section>
+
+  <section class="card">
+    <h2>LivingIcons 1.0</h2>
+    <div class="features">
+      <div class="feature"><b>Theme Gallery</b><span>Browse and install approved animated themes directly inside LivingIcons.</span></div>
+      <div class="feature"><b>Theme Mixer</b><span>Combine two installed themes and automatically fill missing app animations.</span></div>
+      <div class="feature"><b>Theme Creator</b><span>Create, edit, validate, preview and export your own animation packs.</span></div>
+      <div class="feature"><b>Per-App Control</b><span>Override individual icons, animation speed, looping and behavior.</span></div>
+      <div class="feature"><b>Performance Engine</b><span>Animations pause and resume intelligently while preserving full playback.</span></div>
+      <div class="feature"><b>Secure Installs</b><span>Gallery themes are validated as data-only assets before installation.</span></div>
+    </div>
+  </section>
+
+  <section class="card">
+    <h2>What’s new in 1.0.0</h2>
+    <p><strong>Theme Mixer</strong> lets you choose a Base Theme and a Fill Theme. Missing animations from the second theme are added to a new combined theme without modifying either original.</p>
+    <p>Example: keep the look of one pack, then automatically borrow its missing Instagram, Maps, Messages, or other animations from another pack.</p>
+  </section>
+
+  <section class="card">
+    <h2>Compatibility</h2>
+    <p>Designed for modern jailbroken iPhones using rootless or RootHide-style environments. LivingIcons currently targets iOS 17+.</p>
+    <p class="version">Package: com.adam.livingicons · Version 1.0.0 · by Adam Never Lack</p>
+  </section>
+</div>
 </body>
 </html>
