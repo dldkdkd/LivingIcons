@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.animatoon-pro",
+  "name": "Animatoon PRO",
+  "author": "Tykology",
+  "version": "0.0.2",
+  "description": "Awesome animated theme. (Read Description).",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 109,
+  "download": "themes/animatoon-pro/animatoon-pro.theme.zip",
+  "preview": "themes/animatoon-pro/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

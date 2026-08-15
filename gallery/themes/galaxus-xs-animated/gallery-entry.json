@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.galaxus-xs-animated",
+  "name": "Galaxus XS Animated",
+  "author": "Tykology",
+  "version": "1.0.0",
+  "description": "Amazing Animated Theme for iOS 10/11/12",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 59,
+  "download": "themes/galaxus-xs-animated/galaxus-xs-animated.theme.zip",
+  "preview": "themes/galaxus-xs-animated/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

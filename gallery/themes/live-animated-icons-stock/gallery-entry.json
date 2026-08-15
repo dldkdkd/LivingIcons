@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.live-animated-icons-stock",
+  "name": "Live Animated Icons Stock",
+  "author": "Simon",
+  "version": "1.2-1",
+  "description": "Animated Icons Pack for Fingal tweak.",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 38,
+  "download": "themes/live-animated-icons-stock/live-animated-icons-stock.theme.zip",
+  "preview": "themes/live-animated-icons-stock/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

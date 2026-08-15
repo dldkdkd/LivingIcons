@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.gaming-animated",
+  "name": "Gaming Animated",
+  "author": "Tykology",
+  "version": "1.0.1",
+  "description": "Awesome animated theme like gaming PC",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 66,
+  "download": "themes/gaming-animated/gaming-animated.theme.zip",
+  "preview": "themes/gaming-animated/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

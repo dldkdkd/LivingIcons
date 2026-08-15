@@ -1,0 +1,17 @@
+{
+  "id": "com.tykology.animatios.livingicons",
+  "name": "AnimatiOS",
+  "author": "Tykology",
+  "version": "1.0.1",
+  "description": "Classic AnimatiOS animated icon pack ported from Fingal to LivingIcons.",
+  "category": "Classic",
+  "featured": false,
+  "popular": false,
+  "new": true,
+  "verified": false,
+  "iconCount": 36,
+  "download": "themes/animatios/AnimatiOS.theme.zip",
+  "preview": "themes/animatios/preview.png",
+  "minimumLivingIconsVersion": "0.9.2",
+  "updated": "2026-08-14"
+}

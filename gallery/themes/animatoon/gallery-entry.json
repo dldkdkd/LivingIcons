@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.animatoon",
+  "name": "Animatoon",
+  "author": "tykology",
+  "version": "1.1",
+  "description": "Animatoon is an amazing and only theme with cartoon style animations",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 54,
+  "download": "themes/animatoon/animatoon.theme.zip",
+  "preview": "themes/animatoon/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

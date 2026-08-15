@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.oled-animated",
+  "name": "OLED Animated",
+  "author": "Tykology",
+  "version": "1.0.3",
+  "description": "Beauty animated dark theme",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 61,
+  "download": "themes/oled-animated/oled-animated.theme.zip",
+  "preview": "themes/oled-animated/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}

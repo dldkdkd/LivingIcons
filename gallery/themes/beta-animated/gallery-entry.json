@@ -1,0 +1,14 @@
+{
+  "id": "com.livingicons.port.beta-animated",
+  "name": "BETA Animated",
+  "author": "Tykology",
+  "version": "1.0.0",
+  "description": "Beauty animated theme for iOS",
+  "category": "Classic",
+  "featured": false,
+  "new": true,
+  "iconCount": 101,
+  "download": "themes/beta-animated/beta-animated.theme.zip",
+  "preview": "themes/beta-animated/preview.png",
+  "minimumLivingIconsVersion": "0.9.2"
+}
